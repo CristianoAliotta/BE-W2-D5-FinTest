@@ -1,0 +1,28 @@
+﻿body {
+    background-color: #DFD4CE;
+    
+}
+.bg {
+    background-color: #222222;
+}
+.bg:hover {
+    background-color: #222222
+}
+.txt {
+    color: #DFD4CE;
+    font-family: 'Bodoni Moda', serif;
+}
+    .txt:hover {
+        color: #DFD4CE;
+    }
+th, p {
+    font-family: 'Bodoni Moda', serif;
+    
+}
+hr {
+    background-color:#222222
+}
+#logo{
+    width:60px;
+    margin-right:20px
+}
